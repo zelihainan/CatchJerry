@@ -9,9 +9,9 @@ The goal is to tap Jerry as he moves around the screen and achieve the highest s
 - Xcode
 
 ## How to Play
-1. Tap Jerry when he appears in a new position.
-2. Only the first tap after each move counts.
-3. Try to beat your high score before the timer ends.
+Tap Jerry when he appears in a new position.
+Only the first tap after each move counts.
+Try to beat your high score before the timer ends.
 
 ## Installation
 1. Clone the repository:
@@ -20,4 +20,8 @@ The goal is to tap Jerry as he moves around the screen and achieve the highest s
 2. Open CatchJerry.xcodeproj in Xcode.
 3. Build and run on a simulator or device.
 
-<img width="1206" height="2622" alt="simulator_screenshot_E3336AEC-FD53-4785-AF4E-18E27799D860" src="https://github.com/user-attachments/assets/f70a8a88-5072-4ed1-90db-0682f176e4f0" />
+<p>
+<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2025-08-05 at 21 05 03" src="https://github.com/user-attachments/assets/c5b3bd4a-1f25-4ee8-acdc-99c4c079c008" />
+<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2025-08-05 at 21 04 42" src="https://github.com/user-attachments/assets/a9921df8-527f-4af2-91e0-72b6b500eddb" />
+</p>
+
