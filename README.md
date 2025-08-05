@@ -3,11 +3,6 @@
 CatchJerry is a simple iOS game built with Swift.  
 The goal is to tap Jerry as he moves around the screen and achieve the highest score before time runs out.
 
-## Technologies
-- Swift 5+
-- UIKit
-- Xcode
-
 ## How to Play
 Tap Jerry when he appears in a new position.
 Only the first tap after each move counts.
