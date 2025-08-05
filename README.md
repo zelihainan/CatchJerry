@@ -21,7 +21,9 @@ Try to beat your high score before the timer ends.
 3. Build and run on a simulator or device.
 
 <p>
-<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2025-08-05 at 21 05 03" src="https://github.com/user-attachments/assets/c5b3bd4a-1f25-4ee8-acdc-99c4c079c008" />
-<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2025-08-05 at 21 04 42" src="https://github.com/user-attachments/assets/a9921df8-527f-4af2-91e0-72b6b500eddb" />
+  <img src="https://github.com/user-attachments/assets/c5b3bd4a-1f25-4ee8-acdc-99c4c079c008" alt="Screenshot 1" width="250"/>
+  &nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/a9921df8-527f-4af2-91e0-72b6b500eddb" alt="Screenshot 2" width="250"/>
 </p>
+
 
