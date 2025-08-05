@@ -16,14 +16,14 @@ Try to beat your high score before the timer ends.
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/CatchJerry.git
+   git clone https://github.com/zelihainan/CatchJerry.git
 2. Open CatchJerry.xcodeproj in Xcode.
 3. Build and run on a simulator or device.
 
-<p>
-  <img src="https://github.com/user-attachments/assets/c5b3bd4a-1f25-4ee8-acdc-99c4c079c008" alt="Screenshot 1" width="250"/>
-  &nbsp;&nbsp;
+<p align="center">
   <img src="https://github.com/user-attachments/assets/a9921df8-527f-4af2-91e0-72b6b500eddb" alt="Screenshot 2" width="250"/>
+  <img src="https://github.com/user-attachments/assets/c5b3bd4a-1f25-4ee8-acdc-99c4c079c008" alt="Screenshot 1" width="250" style="margin-right: 20px;"/>
 </p>
+
 
 
